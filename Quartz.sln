@@ -41,6 +41,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Examples", "Examples", "{FC
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quartz.Extensions.DependencyInjection", "src\Quartz.Extensions.DependencyInjection\Quartz.Extensions.DependencyInjection.csproj", "{FD743112-25F0-4719-B0DF-144C78600955}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quartz.Plugins.HttpApi", "src\Quartz.Plugins.HttpApi\Quartz.Plugins.HttpApi.csproj", "{F0DFAD56-5F7B-40B1-87CE-8FAAA7C91BED}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -95,6 +97,10 @@ Global
 		{FD743112-25F0-4719-B0DF-144C78600955}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FD743112-25F0-4719-B0DF-144C78600955}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FD743112-25F0-4719-B0DF-144C78600955}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F0DFAD56-5F7B-40B1-87CE-8FAAA7C91BED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0DFAD56-5F7B-40B1-87CE-8FAAA7C91BED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0DFAD56-5F7B-40B1-87CE-8FAAA7C91BED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0DFAD56-5F7B-40B1-87CE-8FAAA7C91BED}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
